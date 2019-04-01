@@ -10,3 +10,6 @@ https://arekpl28.github.io/front-end-advanced/02%20Clock%20with%20transition/ind
 
 ### 03 Buttons with after and before
 https://arekpl28.github.io/front-end-advanced/03%20Buttons%20with%20after%20and%20before/index.html
+
+### 04 Changing font size with transition
+https://arekpl28.github.io/front-end-advanced/04%20Changing%20font%20size%20with%20transition/index.html
