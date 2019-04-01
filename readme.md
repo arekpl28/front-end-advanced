@@ -7,3 +7,6 @@ https://arekpl28.github.io/front-end-advanced/01%20We're%20building%20a%20house/
 
 ### 02 Clock with transition
 https://arekpl28.github.io/front-end-advanced/02%20Clock%20with%20transition/index.html
+
+### 03 Buttons with after and before
+https://arekpl28.github.io/front-end-advanced/03%20Buttons%20with%20after%20and%20before/index.html
