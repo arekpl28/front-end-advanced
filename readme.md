@@ -13,3 +13,6 @@ https://arekpl28.github.io/front-end-advanced/03%20Buttons%20with%20after%20and%
 
 ### 04 Changing font size with transition
 https://arekpl28.github.io/front-end-advanced/04%20Changing%20font%20size%20with%20transition/index.html
+
+### 05 Sunrise and sunset animation
+https://arekpl28.github.io/front-end-advanced/05%20Sunrise%20and%20sunset%20animation/index.html
