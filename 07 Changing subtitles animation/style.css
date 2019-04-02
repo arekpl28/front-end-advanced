@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 70%;
+  height: 40vh;
+  background-color: cadetblue;
+  border-radius: 50px;
+  overflow: hidden;
+}
+
+h1 {
+  position: absolute;
+  top: 50%;
+  left: 0%;
+  width: 100%;
+  transform: translate(0%, -50%);
+  text-align: center;
+  color: white;
+  font-size: 80px;
+  text-transform: uppercase;
+  font-family: Arial, Helvetica, sans-serif;
+  animation: text 15s linear infinite both;
+}
+
+h1:nth-child(2) {
+  animation-delay: 5s;
+}
+
+h1:nth-child(3) {
+  animation-delay: 10s;
+}
+
+@keyframes text {
+  0% {
+    transform: translate(100%, -50%);
+  }
+
+  10% {
+    transform: translate(0%, -50%);
+  }
+
+  23% {
+    transform: translate(0%, -50%);
+  }
+
+  33% {
+    transform: translate(-100%, -50%);
+  }
+
+  100% {
+    transform: translate(-100%, -50%);
+  }
+}
