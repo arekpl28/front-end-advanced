@@ -1,0 +1,40 @@
+section {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 178.375px;
+  height: 325px;
+  transform: translateY(-50%);
+  background-image: url(men.png);
+  animation: walk 1s infinite steps(8), move 8s linear infinite alternate, turn 16s linear infinite;
+}
+
+@keyframes walk {
+  100% {
+    background-position: -1472px 0px;
+  }
+}
+
+@keyframes move {
+  100% {
+    left: calc(100% - 178.375px)
+  }
+}
+
+@keyframes turn {
+  0% {
+    transform: translateY(-50%) rotateY(0)
+  }
+
+  49.99999% {
+    transform: translateY(-50%) rotateY(0)
+  }
+
+  50% {
+    transform: translateY(-50%) rotateY(180deg)
+  }
+
+  100% {
+    transform: translateY(-50%) rotateY(180deg)
+  }
+}
