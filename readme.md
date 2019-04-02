@@ -25,3 +25,6 @@ https://arekpl28.github.io/front-end-advanced/07%20Changing%20subtitles%20animat
 
 ### 08 Banner animation
 https://arekpl28.github.io/front-end-advanced/08%20Banner%20animation/index.html
+
+### 09 Walking man animation
+https://arekpl28.github.io/front-end-advanced//09%20Walking%20man%20animation/index.html
