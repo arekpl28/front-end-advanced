@@ -22,3 +22,6 @@ https://arekpl28.github.io/front-end-advanced/06%20Shaking%20button%20animation/
 
 ### 07 Changing subtitles animation
 https://arekpl28.github.io/front-end-advanced/07%20Changing%20subtitles%20animation/index.html
+
+### 08 Banner animation
+https://arekpl28.github.io/front-end-advanced/08%20Banner%20animation/index.html
