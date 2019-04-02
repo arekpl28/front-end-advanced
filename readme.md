@@ -19,3 +19,6 @@ https://arekpl28.github.io/front-end-advanced/05%20Sunrise%20and%20sunset%20anim
 
 ### 06 Shaking button animation
 https://arekpl28.github.io/front-end-advanced/06%20Shaking%20button%20animation/index.html
+
+### 07 Changing subtitles animation
+https://arekpl28.github.io/front-end-advanced/07%20Changing%20subtitles%20animation/index.html
