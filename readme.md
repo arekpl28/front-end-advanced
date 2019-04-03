@@ -38,3 +38,6 @@ https://arekpl28.github.io/front-end-advanced/11%20Gallery%20flex%20box%20and%20
 ### 12 Layout web page flexbox
 https://arekpl28.github.io/front-end-advanced/12%20Layout%20web%20page%20flexbox/index.html
 
+### 13 Layout web page CSS Grid
+https://arekpl28.github.io/front-end-advanced/13%20Layout%20web%20page%20CSS%20Grid/index.html
+
