@@ -31,3 +31,6 @@ https://arekpl28.github.io/front-end-advanced/09%20Walking%20man%20animation/ind
 
 ### 10 Calculator flex box
 https://arekpl28.github.io/front-end-advanced/10%20Calculator%20flex%20box/index.html
+
+### 11 Gallery flex box and media queries
+https://arekpl28.github.io/front-end-advanced/11%20Gallery%20flex%20box%20and%20media%20queries/index.html
