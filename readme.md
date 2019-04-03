@@ -34,3 +34,7 @@ https://arekpl28.github.io/front-end-advanced/10%20Calculator%20flex%20box/index
 
 ### 11 Gallery flex box and media queries
 https://arekpl28.github.io/front-end-advanced/11%20Gallery%20flex%20box%20and%20media%20queries/index.html
+
+### 12 Layout web page flexbox
+https://arekpl28.github.io/front-end-advanced/12%20Layout%20web%20page%20flexbox/index.html
+
