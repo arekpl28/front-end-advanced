@@ -1,0 +1,55 @@
+*
+  +reset
+  font-size: 10px
+
+span
+  position: absolute
+  display: inline-block
+  top: 100px
+  left: 100px
+  padding: 20px 40px
+  font-size: 3rem
+  color: white
+  font-family: Arial, Helvetica, sans-serif
+  text-transform: uppercase
+  background-color: $color_span
+  cursor: pointer
+  &:hover~div
+    top: 50%
+    left: 50%
+  &:hover~div:nth-of-type(1)
+    width: 25vw
+    height: 15vw
+    transform: translate(-50%, -50%)
+    background-color: $color_span
+    z-index: 3
+  &:hover~div:nth-of-type(2) 
+    width: calc(25vw/1.41)
+    height: calc(25vw/1.41)
+    transform: translate(-50%, -92%) rotate(45deg)
+    background-color: $color_roof
+    z-index: 2
+  &:hover~div:nth-of-type(3) 
+    width: 3vw
+    height: 6vw
+    transform: translate(100%, -300%)
+    background-color: $color_gray
+    z-index: 1
+  &:hover~div:nth-of-type(4) 
+    width: 5vw
+    height: 4vw
+    transform: translate(-190%, -90%)
+    background-color: $color_window
+    z-index: 4
+  &:hover~div:nth-of-type(5) 
+    width: 5vw
+    height: 4vw
+    transform: translate(90%, -90%)
+    background-color: $color_window
+    z-index: 4
+  &:hover~div:nth-of-type(6) 
+    width: 5vw
+    height: 8vw
+    transform: translate(-50%, -10%)
+    background-color: $color_gray
+    z-index: 4
